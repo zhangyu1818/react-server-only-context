@@ -1,0 +1,27 @@
+{
+  "name": "react-server-only-context",
+  "version": "0.0.0",
+  "description": "A solution for enabling context sharing in React Server Components, providing an alternative to React.createContext.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "keywords": [
+    "react",
+    "server components",
+    "context",
+    "context sharing"
+  ],
+  "author": "zhangyu1818 <hey@zhangyu.dev>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.2"
+  }
+}

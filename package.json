@@ -1,6 +1,6 @@
 {
   "name": "react-server-only-context",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A solution for enabling context sharing in React Server Components, providing an alternative to React.createContext.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
